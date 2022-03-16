@@ -60,7 +60,7 @@ Ahmed Kamaran (Kurdistan, Erbil)
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamoshwani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ### Programing Languages
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&color=eb901c&labelColor=4f7b99"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-007396.svg?logo=javascript&logoColor=black&color=ead41c"> <img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=f2c53c&color=346996"> <img alt="PHP" src="https://img.shields.io/badge/php-007396.svg?logo=php&logoColor=white&color=828bb4"> <img alt="Rust" src="https://img.shields.io/badge/Rust-007396.svg?logo=rust&logoColor=white&color=624431">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&color=eb901c&labelColor=4f7b99"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-007396.svg?logo=javascript&logoColor=black&color=ead41c"> <img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=f2c53c&color=346996"> <img alt="PHP" src="https://img.shields.io/badge/php-007396.svg?logo=php&logoColor=white&color=828bb4"> <img alt="Rust" src="https://img.shields.io/badge/React-007396.svg?logo=rust&logoColor=white&color=624431">
 
 
 ### Tools
