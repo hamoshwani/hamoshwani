@@ -33,7 +33,7 @@
 Ahmed Kamaran (Kurdistan, Erbil)
 
 -   🧑 Pronouns: he/him
--   📺 Working in InfoRR Ltd Uk
+-   📺 Working at InfoRR Ltd Uk
 -   ⚒️ Python, PHP, Bash
 -   🌱 Exploring Web, Pentesting & Building things that can break things
 
