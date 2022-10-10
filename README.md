@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Cyber+Securityr+Specialist;A+software+engineer;Ready+to+learn+%2C+build+and+break">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Cyber+Security+Specialist;A+software+engineer;Ready+to+learn+%2C+build+and+break">
 </p>
 
 
